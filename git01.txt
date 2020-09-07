@@ -1,1 +1,3 @@
 This is for testing git.
+Second line
+Third line
